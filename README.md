@@ -1,4 +1,4 @@
-# java-project
+# Restaurant Management System in Java
 
 This project is about a restaurant's management system created using java 8.
 Created using java's OOP features like encapsulation, polymorphism and abstraction.
