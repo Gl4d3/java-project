@@ -5,4 +5,4 @@ Created using java's OOP features like encapsulation, polymorphism and abstracti
 
 It contains a UI where the user can input the orders made and output a printable receipt containing totals of all values.
 
-WELCOME to make changes.
+You're welcome to fork. Let's create magic together
